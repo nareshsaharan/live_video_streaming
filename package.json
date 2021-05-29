@@ -21,6 +21,6 @@
   "dependencies": {
     "express": "^4.17.1",
     "fs": "0.0.1-security",
-    "ws": "^6.0.0"
+    "ws": "^7.4.6"
   }
 }
